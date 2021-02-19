@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardShop", "KeyboardShop\KeyboardShop.csproj", "{01D16488-A430-4B1B-BBC8-6BE0E80D79D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{EE05A06A-6615-4942-8403-DCC50D53B5D4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Desktop\StyleCop-master\StyleCop\settings.ruleset = ..\..\..\..\..\Desktop\StyleCop-master\StyleCop\settings.ruleset
+		..\..\..\..\..\Desktop\StyleCop-master\StyleCop\stylecop.json = ..\..\..\..\..\Desktop\StyleCop-master\StyleCop\stylecop.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01D16488-A430-4B1B-BBC8-6BE0E80D79D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D16488-A430-4B1B-BBC8-6BE0E80D79D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D16488-A430-4B1B-BBC8-6BE0E80D79D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D16488-A430-4B1B-BBC8-6BE0E80D79D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF8CB3B6-ACC3-47A1-8681-13F62FE2F957}
+	EndGlobalSection
+EndGlobal
